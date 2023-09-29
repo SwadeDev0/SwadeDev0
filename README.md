@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SwadeDev0</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [HashCube](https://hashcubenw.com/)
-
+##🔭 I’m currently working on HashCube 😢
+ 
 - 💬 Ask me about **Nukkit, PowerNukkit, PowerNukkitX**
 
 - 📫 How to reach me **guneyyilmaz2707@gmail.com**
